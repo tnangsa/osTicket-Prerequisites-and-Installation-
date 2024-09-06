@@ -26,7 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2024-09-03 101642](https://github.com/user-attachments/assets/3e974008-3179-4590-9364-9c3a7a31b85f)
+
 </p>
 <p>
   
@@ -41,7 +43,9 @@ The image above shows all the prerequisites that were downloaded to begin our in
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2024-09-03 101447](https://github.com/user-attachments/assets/09bb8b91-c4c1-472b-bd43-5cd21165ff0c)
+
 </p>
 <p>
 
@@ -56,7 +60,9 @@ In this step, I registered PHP from within IIS. Here are the steps that were tak
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2024-09-03 111601](https://github.com/user-attachments/assets/1613e4ab-f507-4d4b-9b08-e007dc572295)
+
 </p>
 <p>
 The above image shows the completed installation of osTicket v1.15.8 following the final steps in our installation process from our prerequisites.
